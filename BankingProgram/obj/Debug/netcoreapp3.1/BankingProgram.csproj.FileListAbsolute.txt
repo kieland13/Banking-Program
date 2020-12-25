@@ -1,0 +1,11 @@
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\bin\Debug\netcoreapp3.1\BankingProgram.exe
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\bin\Debug\netcoreapp3.1\BankingProgram.deps.json
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\bin\Debug\netcoreapp3.1\BankingProgram.runtimeconfig.json
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\bin\Debug\netcoreapp3.1\BankingProgram.runtimeconfig.dev.json
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\bin\Debug\netcoreapp3.1\BankingProgram.dll
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\bin\Debug\netcoreapp3.1\BankingProgram.pdb
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\obj\Debug\netcoreapp3.1\BankingProgram.csprojAssemblyReference.cache
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\obj\Debug\netcoreapp3.1\BankingProgram.AssemblyInfoInputs.cache
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\obj\Debug\netcoreapp3.1\BankingProgram.AssemblyInfo.cs
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\obj\Debug\netcoreapp3.1\BankingProgram.dll
+F:\DCTC\NET1\Chapter12\BankingProgram\BankingProgram\obj\Debug\netcoreapp3.1\BankingProgram.pdb
